@@ -4,4 +4,5 @@ Hello and welcome to this blog. I am a student at University of Queensland curre
 
 ![Image of fast.ai logo](images/logo.png)
 
+![Image of Magnus](images/Kopi af IMG_2614.JPG)
 
